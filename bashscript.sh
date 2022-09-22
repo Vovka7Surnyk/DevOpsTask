@@ -3,7 +3,7 @@
 
 E-MAIL="vovka7surnyk@gmail.com"
 NAME="VOVKA"
-TOCKEN=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
+TOCKEN=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
 
 git config --global user.email $E-MAIL 
 git config --global user.name $NAME
