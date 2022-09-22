@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
+source ./.env
+
 git config --global user.email $E-MAIL 
 git config --global user.name $NAME
 git add *
