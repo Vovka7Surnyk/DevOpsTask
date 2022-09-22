@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-source ./.env
+source ./variables
 
 git config --global user.email $E-MAIL 
 git config --global user.name $NAME
