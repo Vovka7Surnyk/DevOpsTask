@@ -1,6 +1,6 @@
 # DevOpsTask
 
-This project was creted to to parse nginx logs, convert it to csv and srore it into Git
+This project was created to to parse nginx logs, convert it to csv and store it into Git
 
 1. Download all files from This repo 
 
