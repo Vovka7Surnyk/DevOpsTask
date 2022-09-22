@@ -16,4 +16,4 @@ https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-acc
 
 6. Run command `docker compose up`
 
-7. Check your repository, `nginx.csv` file should be here)
+7. Check your repository, `nginx.csv` file should be there)
