@@ -2,7 +2,7 @@
 
 This project was created to to parse nginx logs, convert it to csv and store it into Git
 
-1. Download all files from This repo 
+1. Fork this project to your repository Download all files to the local project folder
 
 2. Fill in `EMAIL`, `NAME`, `REPO` fields in the variables file in the same way as indicated in the file.
 
